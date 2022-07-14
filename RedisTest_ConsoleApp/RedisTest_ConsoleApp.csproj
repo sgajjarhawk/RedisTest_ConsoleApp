@@ -11,6 +11,7 @@
 
   <ItemGroup>
     <Folder Include="Deployable_For_Test\" />
+    <Folder Include="Screenshots\" />
   </ItemGroup>
 
 </Project>

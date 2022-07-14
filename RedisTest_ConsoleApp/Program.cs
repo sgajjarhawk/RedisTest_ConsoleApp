@@ -9,7 +9,7 @@ namespace RedisTest_ConsoleApp
         {
             //Console.WriteLine("Hello World!");
 
-            if (args != null && args.Length > 1)
+            if (args != null && args.Length > 0)
             {
                 var operation = args[0].ToString();
                 switch(operation.ToLower())
